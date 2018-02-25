@@ -3,3 +3,5 @@ magenta
 gc
 black
 this message comes from dream
+new message
+okokokokok
