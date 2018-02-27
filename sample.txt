@@ -1,9 +1,13 @@
 dream
 magenta
 gc
+<<<<<<< HEAD
 BLACK!!
 this message comes from dream
 new message
 okokokokok
 nononononono
 git is so easy
+=======
+Today is a good day!
+>>>>>>> af12c29b4004a8b5e51ad8287c512fc2a3abbfe0
